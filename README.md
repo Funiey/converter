@@ -18,6 +18,7 @@ Fahrenheit to Celsius
 Clone the Repository:
 #Copy code
 git clone https://github.com/Funiey/converter.git
+
 cd Converter
 
 #Open in NetBeans:
