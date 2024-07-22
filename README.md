@@ -1,17 +1,17 @@
 # converter
 UnitConverter is a simple Java application that allows users to convert between different units. This project was created using NetBeans and is designed to accept three inputs from the user:
 
-*The unit you want to convert from.
-*The unit you want to convert to.
-*The quantity to be converted.
-*The program then prints the result of the conversion to the user.
+* The unit you want to convert from.
+* The unit you want to convert to.
+* The quantity to be converted.
+* The program then prints the result of the conversion to the user.
 
 # Supported Conversions
 Currently, the program supports the following conversions:
 
-*Feet to Meters
-*Pounds to Kilograms
-*Fahrenheit to Celsius
+* Feet to Meters
+* Pounds to Kilograms
+* Fahrenheit to Celsius
 
 # Usage
 
