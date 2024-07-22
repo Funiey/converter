@@ -32,10 +32,14 @@ User Input
 When you run the program, you will be prompted to provide the following inputs:
 
 # Unit to Convert From:
-Enter feet, pounds, or fahrenheit.
+* feet
+* pounds
+* fahrenheit.
 
 # Unit to Convert To:
-Enter meters, kgs, or celsius.
+* meters
+* kgs
+* celsius.
 
 # Quantity to Convert:
 Enter the numerical value to be converted.
