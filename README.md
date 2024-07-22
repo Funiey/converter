@@ -44,7 +44,7 @@ When you run the program, you will be prompted to provide the following inputs:
 # Quantity to Convert:
 Enter the numerical value to be converted.
 
-# picture
+# Picture
 ![Screenshot (41)](https://github.com/user-attachments/assets/ba6bceb5-0172-485d-8775-b1bb0b320c5e)
 
 # License
@@ -53,5 +53,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-# author
+# Author
 Funani Maitakhole
