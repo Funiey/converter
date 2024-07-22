@@ -1,4 +1,4 @@
-package intotojava;
+package introtojava;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
