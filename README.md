@@ -21,7 +21,7 @@ git clone https://github.com/Funiey/converter.git
 
 cd Converter
 
-#Open in NetBeans:
+# Open in NetBeans:
 
 Launch NetBeans IDE.
 Go to File > Open Project and select the UnitConverter project.
@@ -37,17 +37,17 @@ Enter feet, pounds, or fahrenheit.
 # Unit to Convert To:
 Enter meters, kgs, or celsius.
 
-#Quantity to Convert:
+# Quantity to Convert:
 Enter the numerical value to be converted.
 
 #picture
 ![Screenshot (41)](https://github.com/user-attachments/assets/ba6bceb5-0172-485d-8775-b1bb0b320c5e)
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-#Contributing
+# Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-#author
+# author
 Funani Maitakhole
